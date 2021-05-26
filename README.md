@@ -1,9 +1,9 @@
 # tutumama
 
-#Editing the file
+# Editing the file
 
 It's a markdown file in the repository.
 
-#Commiting a change
+# Commiting a change
 
 It's a commit done newly.
